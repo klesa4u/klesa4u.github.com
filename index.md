@@ -6,6 +6,12 @@ title: Home
 [Home](index.md) | [Publications](publications.md) | [Research Projects](projects.md) | [Contact](contact.md)
 
 # Myungcheol Lee
+<!-- ![Myungcheol Lee's Profile Picture](assets/images/profile.jpg) -->
+
+<img src="assets/images/profile.jpg" alt="Myungcheol Lee's Profile Picture" width="150" style="border-radius: 50%;">
+
+
+
 * Position: Principal Researcher
 * Affiliation: ETRI (Electronics and Telecommunications Research Institute)
 * Research Interests: Big Data, Distributed Computing, Blockchain, Cloud Computing, Artificial Intelligence
