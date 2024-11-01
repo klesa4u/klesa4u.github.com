@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projects
+---
+
 [Home](index.md) | [Publications](publications.md) | [Research Projects](projects.md) | [Contact](contact.md)
 
 ## Current Projects

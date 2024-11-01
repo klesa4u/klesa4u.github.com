@@ -1,9 +1,9 @@
-[Home](index.md) | [Publications](publications.md) | [Research Projects](projects.md) | [Contact](contact.md)
-
 ---
 layout: default
 title: Home
 ---
+
+[Home](index.md) | [Publications](publications.md) | [Research Projects](projects.md) | [Contact](contact.md)
 
 # Myungcheol Lee
 * Position: Principal Researcher

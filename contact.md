@@ -1,9 +1,9 @@
-[Home](index.md) | [Publications](publications.md) | [Research Projects](projects.md) | [Contact](contact.md)
-
 ---
 layout: default
 title: Contact
 ---
+
+[Home](index.md) | [Publications](publications.md) | [Research Projects](projects.md) | [Contact](contact.md)
 
 # Contact Information
 - **Email**: mclee@etri.re.kr
