@@ -1,14 +1,44 @@
-[Home](index.md) | [Publications](publications.md) | [Contact](contact.md)
+[Home](index.md) | [Publications](publications.md) | [Research Projects](projects.md) | [Contact](contact.md)
 
 ---
 layout: default
 title: Home
 ---
 
-# 연구자 이름
-* 직위: 연구원, 교수 등
-* 소속: XX 대학교
-* 연구 분야: 인공지능, 컴퓨터 비전 등
+# Myungcheol Lee
+* Position: Principal Researcher
+* Affiliation: ETRI (Electronics and Telecommunications Research Institute)
+* Research Interests: Big Data, Distributed Computing, Blockchain, Cloud Computing, Artificial Intelligence
 
-## 소개
-저는 XX 대학교에서 인공지능을 연구하는 연구자입니다. 제 연구 관심 분야는 딥러닝, 자연어 처리 및 컴퓨터 비전입니다.
+---
+
+## About Me
+I am a Principal Researcher at ETRI, specializing in big data, distributed computing, blockchain, and artificial intelligence. My research focuses are on developing more efficient algorithms and systems for the research areas. With extensive experience in system engineering, I have a deep understanding of the complexities involved in designing and managing large-scale systems. My expertise in big data and artificial intelligence allows me to create innovative solutions that drive efficiency and intelligence in various applications.
+
+---
+
+## Education
+- M.S. in Computer Engineering, Chungnam National University, 2001
+- B.S. in Computer Engineering, Chungnam National University, 1999
+
+---
+
+## Research Interests
+My primary research interests include:
+- **Machine Learning**: Developing robust and scalable machine learning models.
+- **Natural Language Processing**: Focusing on contextual language understanding and generation.
+- **Robotics**: Integrating AI to enhance robotics applications in real-world scenarios.
+
+## Research Interests
+I am currently working on several projects that align with my research interests:
+- **Big Data Analytics**: Developing efficient algorithms for processing and analyzing large datasets.
+- **Distributed Systems**: Creating scalable and fault-tolerant distributed computing systems.
+- **Blockchain Technology**: Exploring the applications of blockchain in secure and transparent data management.
+- **Cloud Computing**: Enhancing cloud infrastructure to support high-performance computing tasks.
+- **Artificial Intelligence**: Innovating AI-driven solutions for various industry applications.
+
+## Current Projects
+- **Big Blockchain Storage**: 
+  * 다양한 산업 분야 활용성 증대를 위한 대규모/대용량 블록체인 데이터 고확장성 분산 저장 기술 개발
+  * Development of Big Blockchain Data Highly Scalable Distributed Storage Technology for Increased Applications in Various Industries
+  * https://bbs-project.github.io/
