@@ -8,7 +8,7 @@ title: Contact
 # Contact Information
 - **Email**: mclee@etri.re.kr
 - **Office**: ETRI, Building 7, Room 563
-- **Address**: 161 Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea (34129)
+- **Address**: 161 Gajeong-ro, Yuseong-gu, Daejeon 34129, Republic of Korea
 - **Phone**: +82 (42) 860-1691
 - **LinkedIn**: [Myungcheol Lee](https://linkedin.com/in/klesa)
 - **Google Scholar**: [Myungcheol Lee's Profile](https://scholar.google.com/citations?user=Wwwyc0cAAAAJ&hl=ko)
