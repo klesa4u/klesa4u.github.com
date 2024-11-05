@@ -30,12 +30,6 @@ I am a Principal Researcher at ETRI, specializing in big data, distributed compu
 ---
 
 ## Research Interests
-My primary research interests include:
-- **Machine Learning**: Developing robust and scalable machine learning models.
-- **Natural Language Processing**: Focusing on contextual language understanding and generation.
-- **Robotics**: Integrating AI to enhance robotics applications in real-world scenarios.
-
-## Research Interests
 I am currently working on several projects that align with my research interests:
 - **Big Data Analytics**: Developing efficient algorithms for processing and analyzing large datasets.
 - **Distributed Systems**: Creating scalable and fault-tolerant distributed computing systems.
@@ -47,4 +41,4 @@ I am currently working on several projects that align with my research interests
 - **Big Blockchain Storage**: 
   * 다양한 산업 분야 활용성 증대를 위한 대규모/대용량 블록체인 데이터 고확장성 분산 저장 기술 개발
   * Development of Big Blockchain Data Highly Scalable Distributed Storage Technology for Increased Applications in Various Industries
-  * https://bbs-project.github.io/
+  * Project Homepage: [BBS Project at Github](https://bbs-project.github.io/)
