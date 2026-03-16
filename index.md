@@ -7,10 +7,16 @@ title: Home
   <div class="hero-copy">
     <p class="eyebrow">Researcher Profile</p>
     <h1>Scalable data systems for real-world intelligence.</h1>
-    <p class="hero-lead">I design storage and computing systems that make large-scale data platforms more resilient, efficient, and practical across distributed, cloud, blockchain, and AI environments.</p>
+    <p class="hero-lead">Myungcheol Lee designs storage and computing systems that make large-scale data platforms more resilient, efficient, and practical across distributed, cloud, blockchain, and AI environments.</p>
     <div class="hero-actions">
       <a class="button" href="{{ '/publications.html' | relative_url }}">View Publications</a>
-      <a class="button button-secondary" href="{{ '/contact.html' | relative_url }}">Get in Touch</a>
+      <a class="button button-secondary" href="{{ '/projects.html' | relative_url }}">Explore Projects</a>
+    </div>
+    <div class="hero-mini-list" aria-label="Core strengths">
+      <span>Distributed systems</span>
+      <span>Blockchain storage</span>
+      <span>Computational storage</span>
+      <span>Industry-ready infrastructure</span>
     </div>
   </div>
   <div class="hero-facts">
@@ -26,6 +32,10 @@ title: Home
       <span class="stat-label">Recent Output</span>
       <strong>2025 papers and patents</strong>
     </div>
+    <div class="stat-card accent-card">
+      <span class="stat-label">Research Mission</span>
+      <strong>Turning systems research into deployable platforms</strong>
+    </div>
   </div>
 </section>
 
@@ -35,6 +45,30 @@ title: Home
     <h2>Academic and applied systems research.</h2>
   </div>
   <p class="section-lead">Myungcheol Lee is a Principal Researcher at ETRI (Electronics and Telecommunications Research Institute). His work focuses on turning advanced systems ideas into deployable computing infrastructure for data-intensive applications.</p>
+</section>
+
+<section class="section-block">
+  <div class="section-heading">
+    <p class="section-label">Snapshot</p>
+    <h2>What this homepage helps you find quickly</h2>
+  </div>
+  <div class="quick-links-grid">
+    <a class="quick-link-card" href="{{ '/publications.html' | relative_url }}">
+      <span class="card-kicker">Publications</span>
+      <h3>Recent papers and patents</h3>
+      <p>Browse the latest journal, conference, and patent activity with direct links to records.</p>
+    </a>
+    <a class="quick-link-card" href="{{ '/projects.html' | relative_url }}">
+      <span class="card-kicker">Projects</span>
+      <h3>Flagship research directions</h3>
+      <p>See the current focus areas in blockchain storage, platform design, and scalable infrastructure.</p>
+    </a>
+    <a class="quick-link-card" href="{{ '/contact.html' | relative_url }}">
+      <span class="card-kicker">Contact</span>
+      <h3>Collaboration and inquiries</h3>
+      <p>Reach out for academic collaboration, technology discussion, or research exchange.</p>
+    </a>
+  </div>
 </section>
 
 <div class="feature-grid">
@@ -59,6 +93,30 @@ title: Home
     <p>AI-enabled infrastructure that connects algorithmic advances to production-scale systems.</p>
   </article>
 </div>
+
+<section class="section-block">
+  <div class="section-heading">
+    <p class="section-label">Research Focus</p>
+    <h2>Three working principles behind the research</h2>
+  </div>
+  <div class="principles-grid">
+    <article class="principle-card">
+      <span class="card-kicker">Scalability</span>
+      <h3>Design for growth from the start</h3>
+      <p>Research targets architectures that can absorb larger datasets, more nodes, and higher demand without collapsing operationally.</p>
+    </article>
+    <article class="principle-card">
+      <span class="card-kicker">Efficiency</span>
+      <h3>Push performance where it matters</h3>
+      <p>Offload, host-device collaboration, and storage-aware design are used to reduce waste and improve end-to-end system throughput.</p>
+    </article>
+    <article class="principle-card">
+      <span class="card-kicker">Practicality</span>
+      <h3>Bridge research and deployment</h3>
+      <p>The goal is not only novel ideas, but infrastructure that can be adopted in real services, real institutions, and real data environments.</p>
+    </article>
+  </div>
+</section>
 
 <section class="section-block">
   <div class="section-heading">
@@ -92,6 +150,33 @@ title: Home
 
 <section class="section-block">
   <div class="section-heading">
+    <p class="section-label">Selected Outputs</p>
+    <h2>Representative recent work</h2>
+  </div>
+  <div class="record-list compact-records">
+    <article class="record-card">
+      <div class="record-meta">
+        <span class="record-year">2025</span>
+        <span class="record-type">Conference paper</span>
+      </div>
+      <h3>KVACCEL at IPDPS 2025</h3>
+      <p>Research on Host-SSD collaboration for LSM-tree based key-value stores, highlighting practical acceleration for modern storage systems.</p>
+      <p><a href="{{ '/publications.html' | relative_url }}">See publication details</a></p>
+    </article>
+    <article class="record-card">
+      <div class="record-meta">
+        <span class="record-year">2025</span>
+        <span class="record-type">U.S. patents</span>
+      </div>
+      <h3>Blockchain storage patent portfolio</h3>
+      <p>Granted U.S. patents strengthened the portfolio around distributed blockchain transaction storage and erasure-coded architectures.</p>
+      <p><a href="{{ '/publications.html' | relative_url }}">View patent activity</a></p>
+    </article>
+  </div>
+</section>
+
+<section class="section-block">
+  <div class="section-heading">
     <p class="section-label">Education</p>
     <h2>Formal training</h2>
   </div>
@@ -111,4 +196,16 @@ title: Home
     <p>Development of highly scalable distributed storage technology for large-scale blockchain data to broaden practical adoption across industries.</p>
   </div>
   <a class="button" href="https://bbs-project.github.io/">Visit Project Site</a>
+</section>
+
+<section class="cta-banner">
+  <div>
+    <p class="section-label">Next Step</p>
+    <h2>Explore publications, projects, or start a conversation.</h2>
+    <p class="section-lead">This site is organized to help collaborators, students, and reviewers understand current research themes and recent outputs quickly.</p>
+  </div>
+  <div class="hero-actions">
+    <a class="button" href="{{ '/publications.html' | relative_url }}">Browse Outputs</a>
+    <a class="button button-secondary" href="{{ '/contact.html' | relative_url }}">Contact</a>
+  </div>
 </section>
