@@ -3,9 +3,10 @@ layout: default
 title: Publications
 ---
 
-[Home](index.md) | [Publications](publications.md) | [Research Projects](projects.md) | [Contact](contact.md)
-
 # Publications
+
+Selected papers and patents spanning distributed systems, storage, stream processing, and blockchain-related infrastructure.
+
 ## Papers
 
 - Byun, Hongsu; Jamil, Safdar; Han, Jungwook; Park, Sungyong; Lee, Myungcheol; Kim, Changsoo; Choi, Beongjun; Kim, Youngjae, "An analytical model-based capacity planning approach for building csd-based storage systems" ACM Transactions on Embedded Computing Systems, 2024
