@@ -5,20 +5,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title }} | {% endif %}Myungcheol Lee</title>
-    <meta name="description" content="Myungcheol Lee's academic homepage featuring research, publications, and contact information.">
+    <meta name="description" content="Myungcheol Lee's academic homepage featuring research, publications, patents, and contact information.">
     <link rel="stylesheet" href="{{ '/stylesheets/styles.css' | relative_url }}">
   </head>
   <body>
+    <div class="page-backdrop"></div>
     <div class="site-shell">
       <header class="site-header">
-        <div class="brand-block">
+        <a class="brand-block" href="{{ '/' | relative_url }}">
           <img class="profile-photo" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Portrait of Myungcheol Lee">
-          <div>
+          <div class="brand-copy">
             <p class="eyebrow">Academic Homepage</p>
-            <h1 class="site-title">Myungcheol Lee</h1>
+            <strong class="site-title">Myungcheol Lee</strong>
             <p class="site-subtitle">Principal Researcher at ETRI</p>
           </div>
-        </div>
+        </a>
         <nav class="site-nav" aria-label="Primary">
           <a href="{{ '/' | relative_url }}" {% if page.title == 'Home' %}aria-current="page"{% endif %}>Home</a>
           <a href="{{ '/publications.html' | relative_url }}" {% if page.title == 'Publications' %}aria-current="page"{% endif %}>Publications</a>
@@ -32,7 +33,7 @@
       </main>
 
       <footer class="site-footer">
-        <p>Focused on distributed systems, blockchain storage, big data analytics, and AI systems.</p>
+        <p>Research focus: distributed systems, blockchain storage, big data infrastructure, and intelligent computing.</p>
       </footer>
     </div>
   </body>
